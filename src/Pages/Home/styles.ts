@@ -15,6 +15,10 @@ export const Content = styled.div`
     width: 350px;
   }
 
+  h1 {
+    text-align: center;
+  }
+
   a {
     margin-top: 25px;
   }
